@@ -11,7 +11,7 @@ Work Process -
   i) Multinomial Naive Bayes (`alpha=1.0`)
  ii)Logistic Regression (`C=1.0`, `penalty='l2'`, `max_iter=1000`)
 4. Validation : Used 5-fold Stratified Cross-Validation to check accuracy
-                 and macro F1 score reliably across splits[cite: 2, 4].
+                 and macro F1 score reliably across splits.
 
 Results -
 1. Multinomial Naive Bayes : 89.95% accuracy and 0.8783 macro F1.
